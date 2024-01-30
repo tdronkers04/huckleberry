@@ -20,12 +20,12 @@ body {
 }
 
 header {
-  height: 50%;
-  background-color: aqua;
+  height: 40%;
 }
 
 .intro-chunk {
   max-width: 350px;
+  padding-top: 32px;
 }
 
 strong {
