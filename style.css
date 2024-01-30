@@ -15,12 +15,18 @@ body {
   max-width: 600px;
   margin-left: auto;
   margin-right: auto;
-  padding: 48px;
-  /* background-color: yellow; */
+  padding-left: 16px;
+  padding-right: 16px;
 }
 
 header {
-  min-height: 50%;
+  height: 50%;
+  background-color: aqua;
+}
+
+.intro-chunk {
+  padding-top: 64px;
+  max-width: 400px;
 }
 
 strong {
